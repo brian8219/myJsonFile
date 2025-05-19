@@ -1,0 +1,45 @@
+{
+    "stateColorsMain": {
+        "neutral": "secondary1",
+        "additional": "secondary4",
+        "warning": "orange2",
+        "error": "red2",
+        "success": "green2"
+    },
+    "stateColorsAlternative": {
+        "neutral": "secondary1",
+        "additional": "secondary4",
+        "warning": "orange1",
+        "error": "red1",
+        "success": "green1"
+    },
+    "appColor": {
+        "accentColor": "primary3",
+        "backgroundColor": "secondary10"
+    },
+    "colors": {
+        "secondary1": "secondary1",
+        "secondary2": "secondary2",
+        "secondary3": "secondary3",
+        "secondary4": "secondary4",
+        "secondary10": "secondary10",
+        "red1": "red1",
+        "red2": "red2",
+        "orange1": "orange1",
+        "orange2": "orange2",
+        "green1": "green1",
+        "green2": "green2"
+    }
+    "buttontitle": {
+        "height": 48.0,
+        "cornerRadius": 0.0
+    },
+    "buttontitleWithImage": {
+        "height": 48.0,
+        "cornerRadius": 0.0
+    },
+    "buttontitleWithImageFix": {
+        "height": 48.0,
+        "cornerRadius": 0.0
+    }
+}
